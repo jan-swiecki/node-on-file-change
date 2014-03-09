@@ -1,0 +1,23 @@
+{
+  "name": "on-file-change",
+  "version": "0.1.0",
+  "description": "fs.watch wrapper that among other things checks SHA1 of the file to prevent multiple callback calls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jan-swiecki/node-on-file-change.git"
+  },
+  "keywords": [
+    "fs.watch",
+    "watch"
+  ],
+  "author": "Jan Swiecki <jan.swiecki@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jan-swiecki/node-on-file-change/issues"
+  },
+  "homepage": "https://github.com/jan-swiecki/node-on-file-change"
+}
